@@ -10,7 +10,7 @@ namespace FileLog
     class Program
     {
         /// <summary>
-        /// 
+        /// hehhe
         /// </summary>
         /// <param name="args"></param>
         static void Main(string[] args)
