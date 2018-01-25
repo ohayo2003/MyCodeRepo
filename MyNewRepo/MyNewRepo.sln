@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyNewRepo", "MyNewRepo\MyNewRepo.csproj", "{2FE0B637-6435-4283-A09C-0A59854092B2}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMSManagement.Web", "SMSManagement.Web\SMSManagement.Web.csproj", "{07E6451C-B1AC-4891-AB99-5C816A3C4C97}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMSManagement.Test", "SMSManagement.Test\SMSManagement.Test.csproj", "{C0254174-98F2-4B6D-986C-2BA2462CDC23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Niut'sValidator", "E:\niut's projects log\C#高级编程 C# 5.0 & .NET 4.5 code\Tasks\Niut'sValidator\Niut'sValidator.csproj", "{A774E811-E120-44C9-8CBB-4D598BB87220}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,10 +15,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{2FE0B637-6435-4283-A09C-0A59854092B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2FE0B637-6435-4283-A09C-0A59854092B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2FE0B637-6435-4283-A09C-0A59854092B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2FE0B637-6435-4283-A09C-0A59854092B2}.Release|Any CPU.Build.0 = Release|Any CPU
 		{07E6451C-B1AC-4891-AB99-5C816A3C4C97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{07E6451C-B1AC-4891-AB99-5C816A3C4C97}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07E6451C-B1AC-4891-AB99-5C816A3C4C97}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -27,6 +23,10 @@ Global
 		{C0254174-98F2-4B6D-986C-2BA2462CDC23}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0254174-98F2-4B6D-986C-2BA2462CDC23}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0254174-98F2-4B6D-986C-2BA2462CDC23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A774E811-E120-44C9-8CBB-4D598BB87220}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A774E811-E120-44C9-8CBB-4D598BB87220}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A774E811-E120-44C9-8CBB-4D598BB87220}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A774E811-E120-44C9-8CBB-4D598BB87220}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
